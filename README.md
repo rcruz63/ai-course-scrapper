@@ -1,4 +1,8 @@
-# RTVE Radio Scraper
+# Ejercico 1.a del taller de programación aumentada con IA
+
+[Web del curso](https://doble.io/es/courses/ai-enhanced-coding)
+
+## RTVE Radio Scraper
 
 Scraper para extraer información de los programas de radio de RTVE.
 
